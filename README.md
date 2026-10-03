@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Eduardo%20Barros&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="./banner.svg" width="100%" alt="Eduardo Barros: sites interativos e cibersegurança" />
 </p>
 
 # 👋 Bem-vindo ao meu perfil
@@ -27,7 +27,7 @@
 
 ## 🗂️ Projetos
 
-* 💰 **Chips**: SaaS de gestão financeira em TypeScript, com autenticação, integração de APIs e banco de dados em produção. [Ver projeto](LINK_DO_CHIPS)
+* 💰 **[Chips](https://chipsgestao.com.br)**: SaaS de gestão financeira em TypeScript, com autenticação, integração de APIs e banco de dados em produção
 * ✨ **Sites interativos**: landing pages com animações de scroll (GSAP) para comércios locais, do primeiro contato com o cliente até a publicação
 
 ## 🛡️ Certificações
@@ -38,17 +38,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BarrinDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarrinDev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=BarrinDev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📈 Gráfico de atividades
 
 <p align="center">
-  <img
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarrinDev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🧠 Sobre mim
+
+* 🎯 Buscando estágio em TI, com foco em segurança da informação
+* 🔐 Estudando redes, Linux, SIEM e resposta a incidentes
+* 🌐 Criando soluções web reais para clientes reais
+* 📚 Sempre aprendendo algo novo
